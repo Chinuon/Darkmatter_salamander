@@ -5,7 +5,7 @@
   <a href="#"><strong> -- Learn more -- </strong></a>
   <br>
   <br>
-   <a href="">Report issue</a>
+   <a href="https://github.com/Chinuon/coups-d-tat/issues/new">Report issue</a>
 </p>
 
 3rd person shooter game made with unreal engine 4 .
