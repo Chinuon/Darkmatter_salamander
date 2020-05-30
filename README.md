@@ -5,11 +5,11 @@
   <a href="#"><strong> -- Learn more -- </strong></a>
   <br>
   <br>
-   <a href="">Report issue</a>
+   <a href="https://github.com/Chinuon/coups-d-tat/issues/new">Report issue</a>
 </p>
 
 3rd person shooter game made with unreal engine 4 .
 
 <a href="https://www.youtube.com/watch?v=ddtPfnBGOh8
-" target="_blank"><img src="" 
+" target="_blank"><img src="https://github.com/Chinuon/coups-d-tat/blob/master/Screenshot%20(490).png" 
 alt="IMAGE ALT TEXT HERE"  /></a>
